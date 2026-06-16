@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
+
+# PostgreSQL exports
+*.backup
+
+# OS
+.DS_Store
+Thumbs.db
